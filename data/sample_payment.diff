@@ -1,0 +1,4 @@
+diff --git a/src/PaymentService.java b/src/PaymentService.java
++++ b/src/PaymentService.java
+@@
++if (request.amount() <= 0) throw new InvalidPaymentException();
