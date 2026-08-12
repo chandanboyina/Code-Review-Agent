@@ -98,6 +98,14 @@ Use the included seed demo to create team preferences, review once, provide feed
 ### 7. Demo mode
 The application can run without an LLM key using deterministic review heuristics. This is only a fallback for development. The hackathon demo should use a real LLM + Hindsight.
 
+![Image Description](CodeReviewAgent0.jpeg)
+
+![Image Description](CodeReviewAgent1.jpeg)
+
+![Image Description](CodeReviewAgent2.jpeg)
+
+![Image Description](CodeReviewAgent3.jpeg)
+
 ### 8. Security-conscious defaults
 - API keys stay in environment variables.
 - GitHub tokens are optional.
